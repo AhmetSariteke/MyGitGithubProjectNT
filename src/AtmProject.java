@@ -8,7 +8,9 @@ public class AtmProject {
         //version3
         System.out.println(" git is easy ");
         //version4
-        System.out.println(" java zor ");
+
         //version5
+        System.out.println(" java eglenceli");
+        //version6
     }
 }

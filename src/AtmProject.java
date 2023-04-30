@@ -10,5 +10,7 @@ public class AtmProject {
         //version4
         System.out.println("ahmet " );
         //version ahm1
+        System.out.println(" = ");
+        //ahm2
     }
 }

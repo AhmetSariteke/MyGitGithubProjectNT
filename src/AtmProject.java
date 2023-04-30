@@ -3,6 +3,6 @@ public class AtmProject {
         System.out.println("atm projesi");
         //version1
         System.out.println(" java easy ");
-
+        //version2
     }
 }
